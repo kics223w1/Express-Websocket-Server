@@ -1,3 +1,1 @@
-# How to run
-
- - `npm i` -> `node index.js`
+ - `npm i` -> `node index.js` -> The url is `ws://localhost:4000/ww-12-44`
